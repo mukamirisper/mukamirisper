@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/METALLB-326CE5?style=for-the-badge&logoColor=white" alt="MetalLB" />
 </p>
 
 
@@ -40,6 +41,15 @@
   <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
+### 🖍️🏷️ Data Annotation
+<p> 
+ <img src="https://img.shields.io/badge/label-studio-000000?style=for-the-badge&logo=labelstudio&logoColor=white" alt="Label Studio" />
+        <img src="https://img.shields.io/badge/LABELBOX-2C3E50?style=for-the-badge&logoColor=white" alt="Labelbox" />
+        <img src="https://img.shields.io/badge/CVAT-1F618D?style=for-the-badge&logoColor=white" alt="CVAT" />
+        <img src="https://img.shields.io/badge/SUPERANNOTATE-1A237E?style=for-the-badge&logoColor=white" alt="SuperAnnotate" />
+        <img src="https://img.shields.io/badge/V7_LABS-00E676?style=for-the-badge&logoColor=black" alt="V7 Labs" />
+       <img src="https://img.shields.io/badge/DATALOOP-FF5722?style=for-the-badge&logoColor=white" alt="Dataloop" />
+</p>
 
 
 
